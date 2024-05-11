@@ -1,10 +1,27 @@
-We were unable to upload the Unity Project directly so this was the only way available.
+# Tamagotcha Game
 
-Click the link and download the zip file (3380 Project) and be sure to extract all.
+Our project is a minigame styled 2D game with interactive music features.
 
-https://www.dropbox.com/scl/fo/0h9loch5ra8ti8yvamn5u/AK9BRkhi5yUaaykSRpBbKus?rlkey=5yjsns8g3axohwg6i3a9au0y6&st=1tcgcdgo&dl=0
+### Requirements
 
-After extracting the folder click on the "Tamagotocha Game.exe" file to run the game
+* Have unity installed https://unity.com/releases/editor/whats-new/2021.3.26
+* Git installed on your device
+* You then have to clone the repository
 
-Enjoy!!
+
+
+### How to run Game
+
+* Open Unity (Unity Hub) and make sure you’re logged in to an account
+* Click on the projects tab
+* From there hit add
+* Make your way to the location you cloned the repository and click on Select Folder
+* When the project is opened in unity in the top left corner hit File and from there select Build and run
+* It should open file explorer and select a folder preferably “Downloads”
+* It will compile together and automatically open an exe file
+* And from there you should load onto the starting menu
+
+
+
+
 
